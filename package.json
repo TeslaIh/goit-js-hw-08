@@ -3,20 +3,20 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://mariiamlyuzan.github.io/goit-js-hw-08/",
+  "homepage": "https://TeslaIh.github.io/goit-js-hw-08/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mariiamlyuzan/goit-js-hw-08/"
+    "url": "git+https://github.com/TeslaIh/goit-js-hw-08/"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ihor 'Tesla' Teslenko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mariiamlyuzan/goit-js-hw-08/issues"
+    "url": "https://github.com/TeslaIh/goit-js-hw-08/issues"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
@@ -26,7 +26,7 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
-    "@vimeo/player": "^2.16.1",
+    "@vimeo/player": "^2.16.2",
     "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.9.0"
   }
